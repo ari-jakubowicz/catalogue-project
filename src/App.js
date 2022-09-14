@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Catalogue from './components/Catalogue/Catalogue';
 import { Provider } from 'react-redux';
