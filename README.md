@@ -1,1 +1,1 @@
-This is a project which allows you to choose between the possible players of Argentina's football team and add them to your recommenden starting squad. It's currently being built with ReactJS, using Redux and Material UI. Feel free to take a look at the latest progress. 
+This is a project which allows you to choose between the possible players of Argentina's football team and add them to your recommended starting squad. It's currently being built with ReactJS, using Redux and Material UI. Feel free to take a look at the latest progress. 
